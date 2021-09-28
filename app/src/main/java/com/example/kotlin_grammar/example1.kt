@@ -33,7 +33,7 @@ fun add(a : Int, b : Int) : Int {
 
 //2. val vs var
 //val = value 값이 변하지않는 것
-//var =  valuable 값이 변하는 것
+//var =  variable 값이 변하는 것
 fun hi(){
 
     val a : Int = 10

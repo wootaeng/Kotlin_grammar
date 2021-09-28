@@ -40,3 +40,14 @@ fun checkNum(score : Int){
         else -> println("okay")
     }
 }
+
+//Expression(식) Statement(문)
+/**
+ *어떤 과정을 통해 값을 만들면 Expression
+ * 코틀린의 모든 함수는 대체로 Expression이다
+ * 코틀린은 생략이 가능하지만 :Unit 이라는 값을 리턴받기에 Expression.
+ * 자바에서는 Statement 로만 가능하지만 코틀린에선 두개다 사용가능
+ * Statement 는 명령을 지시하는 문장 (Java in void)
+ *
+ */
+
